@@ -1,6 +1,11 @@
 ChangeLog
 =========
 
+3.3.3-octo
+----------
+
+Our fork of factory boy that doesn't have a py.typed
+
 .. Note for v4.x: don't forget to check "Deprecated" sections for removal.
 
 3.3.3 (2025-02-03)
